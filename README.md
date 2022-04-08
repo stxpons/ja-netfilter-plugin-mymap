@@ -1,4 +1,4 @@
-# plugin-mymap
+# plugin-mymap - `deprecated in 2022.1`
 
 ### MyMap plugin for [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter), decompiled from [jetbra.in](https://jetbra.in), thanks!
 
